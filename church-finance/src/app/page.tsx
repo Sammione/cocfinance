@@ -45,7 +45,7 @@ export default function Home() {
                 For treasurers, finance officers, and church leaders to manage transactions and approve records.
               </p>
               
-              <Link href="/admin/dashboard" className="inline-flex items-center justify-center w-full py-4 px-6 bg-blue-600 hover:bg-blue-500 text-white text-lg font-semibold rounded-xl transition-all duration-300 shadow-[0_0_20px_rgba(37,99,235,0.3)] hover:shadow-[0_0_30px_rgba(37,99,235,0.5)] group-hover:translate-y-[-2px]">
+              <Link href="/admin/login" className="inline-flex items-center justify-center w-full py-4 px-6 bg-blue-600 hover:bg-blue-500 text-white text-lg font-semibold rounded-xl transition-all duration-300 shadow-[0_0_20px_rgba(37,99,235,0.3)] hover:shadow-[0_0_30px_rgba(37,99,235,0.5)] group-hover:translate-y-[-2px]">
                 Access Admin Portal
                 <svg className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </Link>
