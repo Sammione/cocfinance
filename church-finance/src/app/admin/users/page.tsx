@@ -2,12 +2,8 @@
 import React from "react";
 
 const users = [
-  { name: "Brother Segun", email: "segun@church.org", role: "Finance Officer", status: "Active" },
-  { name: "Sister Mercy", email: "mercy@church.org", role: "Treasurer", status: "Active" },
-  { name: "Brother Samuel", email: "samuel@church.org", role: "Church Leader / Elder", status: "Active" },
-  { name: "Sister Grace", email: "grace@church.org", role: "Secretary", status: "Active" },
-  { name: "Brother Femi", email: "femi@church.org", role: "Auditor", status: "Active" },
-  { name: "Admin", email: "admin@church.org", role: "Super Admin", status: "Active" },
+  { name: "Afolabi Akinyemi", email: "afolabi.akinyemi@church.org", role: "Preacher", status: "Active" },
+  { name: "Segun Okunsanya", email: "segun.okunsanya@church.org", role: "Financial sec", status: "Active" },
 ];
 
 const roleColors: Record<string, string> = {
@@ -18,6 +14,8 @@ const roleColors: Record<string, string> = {
   "Auditor": "bg-slate-100 text-slate-800",
   "Secretary": "bg-pink-100 text-pink-800",
   "Member": "bg-sky-100 text-sky-800",
+  "Preacher": "bg-indigo-100 text-indigo-800",
+  "Financial sec": "bg-teal-100 text-teal-800",
 };
 
 export default function UsersPage() {
