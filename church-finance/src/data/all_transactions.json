@@ -1,0 +1,2174 @@
+{
+  "income2026": [
+    [
+      "Date",
+      "Income Source",
+      "Cash (₦)",
+      "Bank (₦)",
+      "Other Sources (₦)",
+      "Total (₦)",
+      "Recorded By",
+      "Remarks"
+    ],
+    [
+      null,
+      "JANUARY 2026 INCOME"
+    ],
+    [
+      46026,
+      "Sunday Collection",
+      60700,
+      34000,
+      0,
+      94700,
+      "Bro Segun"
+    ],
+    [
+      46033,
+      "Sunday Collection",
+      65810,
+      106500,
+      0,
+      172310,
+      "Bro Segun"
+    ],
+    [
+      46040,
+      "Sunday Collection",
+      44050,
+      20000,
+      6000,
+      70050,
+      "Bro Segun",
+      "others - Fellowship at sis Ikugbayigbe"
+    ],
+    [
+      46047,
+      "Sunday Collection",
+      39100,
+      80000,
+      0,
+      119100,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "FEBRUARY 2026 INCOME"
+    ],
+    [
+      46054,
+      "Sunday Collection",
+      52950,
+      43000,
+      0,
+      95950,
+      "Bro Segun"
+    ],
+    [
+      46061,
+      "Sunday Collection",
+      85910,
+      32000,
+      0,
+      117910,
+      "Bro Segun"
+    ],
+    [
+      46068,
+      "Sunday Collection",
+      52500,
+      47000,
+      0,
+      99500,
+      "Bro Segun"
+    ],
+    [
+      46075,
+      "Sunday Collection",
+      35400,
+      53000,
+      0,
+      88400,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "MARCH 2026 INCOME"
+    ],
+    [
+      46082,
+      "Sunday Collection ",
+      40150,
+      142150,
+      0,
+      182300
+    ],
+    [
+      46089,
+      "Sunday Collection ",
+      46050,
+      33000,
+      0,
+      79050
+    ],
+    [
+      46096,
+      "Sunday Collection ",
+      42550,
+      41500,
+      1000,
+      84050,
+      null,
+      "others - Fellowship at Sister Ikugbayigbe"
+    ],
+    [
+      46103,
+      "Sunday Collection ",
+      61650,
+      33500,
+      0,
+      95150
+    ],
+    [
+      46110,
+      "Sunday Collection ",
+      42650,
+      89500,
+      0,
+      42650
+    ],
+    [
+      null,
+      "APRIL 2026 INCOME "
+    ],
+    [
+      46117,
+      "Sunday Collection ",
+      51200,
+      68000,
+      0,
+      68000
+    ],
+    [
+      46124,
+      "Sunday Collection ",
+      44650,
+      35000,
+      0,
+      79650
+    ],
+    [
+      46131,
+      "Sunday Collection ",
+      39750,
+      38500,
+      0,
+      78250
+    ],
+    [
+      46107,
+      "Sunday Collection ",
+      35800,
+      45000,
+      0,
+      80800
+    ],
+    [
+      null,
+      "MAY 2026 INCOME "
+    ],
+    [
+      46145,
+      "Sunday Collection ",
+      50050,
+      79000,
+      0,
+      129050
+    ],
+    [
+      46152,
+      "Sunday Collection ",
+      38650,
+      38000,
+      5000,
+      81650
+    ],
+    [
+      46159,
+      "Sunday Collection ",
+      47050,
+      44000,
+      1000,
+      92050
+    ],
+    [
+      46166,
+      "Sunday Collection ",
+      41200,
+      39000,
+      0,
+      80200
+    ],
+    [
+      46173,
+      "Sunday Collection ",
+      38900,
+      52000,
+      0,
+      90900
+    ],
+    [
+      null,
+      46174
+    ],
+    [
+      46180,
+      "Sunday Collection",
+      52050,
+      72000,
+      0,
+      124050
+    ],
+    [
+      46187,
+      "Sunday Collection",
+      44500,
+      40000,
+      0,
+      84500
+    ],
+    [
+      46194,
+      "Sunday Collection",
+      33200,
+      60000,
+      0,
+      93200
+    ],
+    [
+      46201,
+      "Sunday Collection",
+      39750,
+      97500,
+      0,
+      137250
+    ]
+  ],
+  "expense2026": [
+    [
+      "Date",
+      "Expense Description",
+      "Cash (₦)",
+      "Bank (₦)",
+      "Total (₦)",
+      "Collected by",
+      "Remarks "
+    ],
+    [
+      null,
+      "JANUARY 2026 EXPENSES"
+    ],
+    [
+      46026,
+      "Cleaning of the premises",
+      7900
+    ],
+    [
+      null,
+      "Detergent and Hypo",
+      4000
+    ],
+    [
+      null,
+      "Support to Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      null,
+      "Preacher's House help",
+      20000
+    ],
+    [
+      null,
+      "Preacher's Allowance",
+      70000
+    ],
+    [
+      46033,
+      "Business Meeting Refreshments",
+      10000
+    ],
+    [
+      null,
+      "Plumbing repairs at the toilets",
+      15000,
+      null,
+      null,
+      "Bro Taiwo",
+      "#33110.00 Balance after expenses to be paid in by bro Busayo"
+    ],
+    [
+      46040,
+      "2 mops and a broom",
+      10000,
+      null,
+      null,
+      "Bro Solomon"
+    ],
+    [
+      null,
+      "Transport to visitation",
+      3000,
+      null,
+      null,
+      "Bro Okoro",
+      "#37050.00 Balance after expenses to be paid in by bro Segun"
+    ],
+    [
+      null,
+      "Development of the Ground floor",
+      0,
+      2000000,
+      0,
+      "Bro Segun"
+    ],
+    [
+      46047,
+      "Fuel",
+      21000
+    ],
+    [
+      null,
+      "Generator Repair",
+      8000
+    ],
+    [
+      null,
+      46054
+    ],
+    [
+      46054,
+      "Business meeting refreshments",
+      10000
+    ],
+    [
+      null,
+      "Cleaning of the premises - Jan 2026",
+      30000
+    ],
+    [
+      null,
+      "Itapa Ekiti Preacher's support",
+      10000
+    ],
+    [
+      null,
+      "Preacher's allowance",
+      70000
+    ],
+    [
+      46061,
+      "Purchase of battery",
+      21000
+    ],
+    [
+      null,
+      "Bush clearing",
+      8000
+    ],
+    [
+      null,
+      "Printing of materila for Foundation Class",
+      34700
+    ],
+    [
+      null,
+      "Burial Expenses of Bro Solomon Djanere",
+      null,
+      108500
+    ],
+    [
+      null,
+      "Travel expenses of bro Alex Obia in Dec 2025",
+      null,
+      50000
+    ],
+    [
+      null,
+      "Preacher's house help",
+      20000
+    ],
+    [
+      46068,
+      "Fuel",
+      32500,
+      null,
+      null,
+      null,
+      "#20000.00 Balance after expenses to be paid by bro Segun"
+    ],
+    [
+      null,
+      46082
+    ],
+    [
+      46082,
+      "Business meeting refreshments ",
+      10000
+    ],
+    [
+      null,
+      "Preacher's support ",
+      null,
+      70000
+    ],
+    [
+      null,
+      "Cleaning  of the premises for Feb. 2026",
+      30000,
+      null,
+      null,
+      null,
+      "#150:00 Balance after expenses "
+    ],
+    [
+      46089,
+      "Support to Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      null,
+      "Support for bro Okoro's health",
+      30000,
+      null,
+      null,
+      null,
+      "#6050 Balance after expenses "
+    ],
+    [
+      46096,
+      "Fuel",
+      35000,
+      null,
+      null,
+      null,
+      "#7550 Balance after expenses "
+    ],
+    [
+      46103,
+      "Bro Taiwo's transportation to Sister Faith's wedding to Samuel ",
+      50000
+    ],
+    [
+      null,
+      "Fuel",
+      11000,
+      null,
+      null,
+      null,
+      "#650:00 Balance after expenses "
+    ],
+    [
+      null,
+      "Preacher's house help",
+      0,
+      20000
+    ],
+    [
+      null,
+      "Bro Osuagwu's health",
+      0,
+      50000
+    ],
+    [
+      null,
+      "Communion Wine ",
+      0,
+      57600
+    ],
+    [
+      46110,
+      "Cleaning of the church premises for March '26",
+      30000
+    ],
+    [
+      null,
+      "Bush clearing around premises",
+      12650
+    ],
+    [
+      null,
+      46113
+    ],
+    [
+      46117,
+      "Business meeting refreshments ",
+      10000,
+      null,
+      null,
+      null,
+      "11200 Balance after expenses "
+    ],
+    [
+      null,
+      "Preacher's support ",
+      70000
+    ],
+    [
+      null,
+      "Cleaning  of the premises for March 2026",
+      30000
+    ],
+    [
+      null,
+      "Support to Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      null,
+      "Expenses for Fellowship / Evangelism (cheque)",
+      85400,
+      85400
+    ],
+    [
+      null,
+      "Preacher's house help",
+      20000
+    ],
+    [
+      46124,
+      "Balance for cleaning of the premises ",
+      5000,
+      null,
+      null,
+      null,
+      "5000 increment "
+    ],
+    [
+      null,
+      "Photocopy for Foundation Class ",
+      33700
+    ],
+    [
+      null,
+      "Marker (1 pack)",
+      4000,
+      null,
+      null,
+      null,
+      "1950 Balance after expenses "
+    ],
+    [
+      46131,
+      "Fuel",
+      36500,
+      null,
+      null,
+      null,
+      "3250 Balance after expenses "
+    ],
+    [
+      46138,
+      "Oil for Generator ",
+      10000,
+      null,
+      null,
+      null,
+      "800 Balance after expenses "
+    ],
+    [
+      null,
+      "Cleaning of the premises for April '26",
+      35000
+    ],
+    [
+      null,
+      46143
+    ],
+    [
+      46145,
+      "Business meeting refreshments ",
+      10000
+    ],
+    [
+      null,
+      "Itapa Ekiti preacher's support ",
+      10000
+    ],
+    [
+      null,
+      "Preacher's House help",
+      20000,
+      null,
+      null,
+      null,
+      "#10050 Balance after expenses "
+    ],
+    [
+      null,
+      "Preacher's Allowance ",
+      70000
+    ],
+    [
+      46152,
+      "Bush clearing ",
+      9000,
+      null,
+      null,
+      "bro Okoro",
+      "#29650 Balance after expenses "
+    ],
+    [
+      46166,
+      "Fuel",
+      32000,
+      null,
+      null,
+      "bro Busayo ",
+      "#9200 Balance after expenses "
+    ],
+    [
+      46173,
+      "Two pcs 13amps plug @ 1000",
+      2000
+    ],
+    [
+      null,
+      "Cleaning of the premises",
+      35000
+    ],
+    [
+      null,
+      46174
+    ],
+    [
+      46180,
+      "Business Meeting Refreshments",
+      10000
+    ],
+    [
+      null,
+      "Itapa Ekiti Preacher's Support",
+      10000
+    ],
+    [
+      null,
+      "Preacher's House help",
+      20000
+    ],
+    [
+      null,
+      "Preacher's Allowance",
+      70000
+    ],
+    [
+      null,
+      "Repair of Projector Screen",
+      0,
+      50000
+    ],
+    [
+      null,
+      "Baby withhole in the heart",
+      0,
+      50000
+    ],
+    [
+      null,
+      "Printing of Fliers for Evangelism, Communion, Cleaning of the premises",
+      0,
+      173515,
+      null,
+      null,
+      "Fliers 29000; Communion Wine 76800; Land Use 32715; Cleaning the Premises 3500"
+    ],
+    [
+      null,
+      "$"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "/*"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      " ",
+      ".  "
+    ]
+  ],
+  "income2025": [
+    [
+      "Date",
+      "Income Source",
+      "Cash (₦)",
+      "Bank (₦)",
+      "Other Sources (₦)",
+      "Total (₦)",
+      "Recorded By",
+      "Remarks"
+    ],
+    [
+      null,
+      "JANUARY 2025 INCOME"
+    ],
+    [
+      45662,
+      "Sunday Collection",
+      36950,
+      37000,
+      null,
+      73950,
+      "Bro Segun"
+    ],
+    [
+      45669,
+      "Sunday Collection",
+      36350,
+      67000,
+      null,
+      103350,
+      "Bro Segun"
+    ],
+    [
+      45676,
+      "Sunday Collection",
+      36950,
+      26100,
+      null,
+      63050,
+      "Bro Segun"
+    ],
+    [
+      45683,
+      "Sunday Collection",
+      27850,
+      47000,
+      null,
+      74850,
+      "Bro Segun"
+    ],
+    [
+      45683,
+      "Collection from Fellowship",
+      8000,
+      0,
+      null,
+      8000,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "FEBRUARY 2025 INCOME"
+    ],
+    [
+      45690,
+      "Sunday Collection",
+      39900,
+      31000,
+      null,
+      70900,
+      "Bro Segun"
+    ],
+    [
+      45902,
+      "Sunday Collection",
+      35050,
+      67500,
+      null,
+      102550,
+      "Bro Segun"
+    ],
+    [
+      "16/02/25",
+      "Sunday Collection",
+      43450,
+      75000,
+      null,
+      118450,
+      "Bro Segun"
+    ],
+    [
+      "23/02/25",
+      "Sunday Collection",
+      34200,
+      80500,
+      null,
+      114700,
+      "Bro Segun"
+    ],
+    [
+      "23/02/25",
+      "Collection from Fellowship",
+      7000,
+      0,
+      null,
+      7000,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "MARCH 2025 INCOME"
+    ],
+    [
+      45691,
+      "Sunday Collection",
+      51170,
+      78000,
+      null,
+      129170,
+      "Bro Segun"
+    ],
+    [
+      45903,
+      "Sunday Collection",
+      33900,
+      70000,
+      null,
+      103900,
+      "Bro Segun"
+    ],
+    [
+      "16/03/2025",
+      "Sunday Collection",
+      27300,
+      49000,
+      null,
+      76300,
+      "Bro Segun"
+    ],
+    [
+      "23/03/2025",
+      "Sunday Collection",
+      29300,
+      105000,
+      null,
+      134300,
+      "Bro Segun"
+    ],
+    [
+      "30/03/2025",
+      "Sunday Collection",
+      47750,
+      23000,
+      null,
+      70750,
+      "Bro Segun"
+    ],
+    [
+      null,
+      null,
+      "APRIL 2025 INCOME"
+    ],
+    [
+      45753,
+      "Sunday Collection",
+      34500,
+      49000,
+      0,
+      83500,
+      "Bro Segun"
+    ],
+    [
+      45760,
+      "Sunday Collection",
+      42800,
+      43000,
+      0,
+      85800,
+      "Bro Segun"
+    ],
+    [
+      45767,
+      "Sunday Collection (Cash, Transfers, Fellowship,etc)",
+      48100,
+      28000,
+      4000,
+      80100,
+      "Bro Segun "
+    ],
+    [
+      45774,
+      "Sunday Collection ",
+      45250,
+      48000,
+      0,
+      93250,
+      "Bro Segun "
+    ],
+    [
+      null,
+      null,
+      "MAY 2025 INCOME"
+    ],
+    [
+      45780,
+      "Sunday Collection ",
+      46750,
+      55000,
+      0,
+      101750,
+      "bro Segun "
+    ],
+    [
+      null,
+      "Balance from Bro Samuel Omolaiye 's treatment ",
+      "-",
+      "-",
+      909050.17,
+      null,
+      null,
+      "Refer to \"Health Fund Account\" Tab for details of Expenses "
+    ],
+    [
+      45788,
+      "Sunday Collection ",
+      49750,
+      105000,
+      0,
+      154750,
+      "bro Segun "
+    ],
+    [
+      45795,
+      "Sunday Collection, fellowship ",
+      40300,
+      126000,
+      3000,
+      169300,
+      "bro Segun "
+    ],
+    [
+      45802,
+      "Sunday Collection ",
+      36700,
+      83000,
+      0,
+      119700,
+      "bro Segun "
+    ],
+    [
+      null,
+      null,
+      "JUNE 2025 INCOME"
+    ],
+    [
+      45809,
+      "Sunday Collection",
+      52900,
+      66000,
+      0,
+      118900,
+      "bro Segun"
+    ],
+    [
+      45816,
+      "Sunday Collection ",
+      73750,
+      28000,
+      0,
+      101750,
+      "bro Segun "
+    ],
+    [
+      45823,
+      "Sunday Collection ",
+      53850,
+      187000,
+      0,
+      240850,
+      "bro Segun"
+    ],
+    [
+      45824,
+      "Diaspora Inflow",
+      0,
+      300000,
+      0,
+      300000,
+      "bro Segun"
+    ],
+    [
+      45830,
+      "Sunday Collection ",
+      48350,
+      48000,
+      0,
+      96350,
+      "bro Segun"
+    ],
+    [
+      45837,
+      "Sunday Collection ",
+      45150,
+      70000,
+      0,
+      115150,
+      "bro Segun "
+    ],
+    [
+      45838,
+      "Diaspora Inflow",
+      0,
+      500000,
+      0,
+      500000,
+      "bro Segun"
+    ],
+    [
+      null,
+      null,
+      "JULY 2025 INCOME"
+    ],
+    [
+      45845,
+      "Sunday Collection",
+      47350,
+      60500,
+      0,
+      107850,
+      "bro Segun"
+    ],
+    [
+      45851,
+      "Sunday Collection ",
+      38300,
+      47000,
+      0,
+      85300,
+      "bro Segun"
+    ],
+    [
+      45858,
+      "Sunday Collection,  Fellowship",
+      41550,
+      24000,
+      5000,
+      70550,
+      "bro Segun"
+    ],
+    [
+      45865,
+      "Sunday Collection ",
+      28100,
+      115000,
+      0,
+      143100,
+      "bro Segun"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      " "
+    ],
+    [
+      null,
+      null,
+      "AUGUST 2025 INCOME"
+    ],
+    [
+      45872,
+      "Sunday Collection",
+      53400,
+      43000,
+      0,
+      96400
+    ],
+    [
+      45879,
+      "Sunday Collection",
+      46450,
+      22000,
+      0,
+      68450
+    ],
+    [
+      null,
+      "Refund from Sisters (Olodi Apapa program)",
+      0,
+      0,
+      8500,
+      8500
+    ],
+    [
+      45886,
+      "Sunday Collection",
+      49950,
+      48000,
+      0,
+      97950
+    ],
+    [
+      null,
+      "Fellowship @ sis Ikugbayigbe",
+      0,
+      0,
+      2500,
+      2500
+    ],
+    [
+      45893,
+      "Sunday Collection",
+      37020,
+      31000,
+      0,
+      68020
+    ],
+    [
+      45900,
+      "Sunday Collection",
+      23755,
+      68500,
+      0,
+      92255,
+      null,
+      "Bal after expenses, paid in by bro Busayo = 3455"
+    ],
+    [
+      null,
+      null,
+      "SEPTEMBER 2025 INCOME"
+    ],
+    [
+      45907,
+      "Sunday Collection",
+      36110,
+      55000,
+      0,
+      91110
+    ],
+    [
+      45914,
+      "Sunday Collection",
+      43500,
+      50400,
+      0,
+      93900
+    ],
+    [
+      45921,
+      "Sunday Collection",
+      35300,
+      62000,
+      0,
+      97300
+    ],
+    [
+      45928,
+      "Sunday Collection",
+      47550,
+      135000,
+      0,
+      182550
+    ],
+    [
+      null,
+      null,
+      "OCTOBER 2025 INCOME"
+    ],
+    [
+      45935,
+      "Sunday Collection",
+      43000,
+      30000,
+      0,
+      73000
+    ],
+    [
+      45942,
+      "Sunday Collection",
+      36350,
+      34000,
+      0,
+      70350
+    ],
+    [
+      45949,
+      "Sunday Collection",
+      45150,
+      25500,
+      96000,
+      166650,
+      null,
+      "Bal after expenses, paid in by bro Busayo = 42150"
+    ],
+    [
+      45956,
+      "Sunday Collection",
+      30300,
+      136000,
+      0,
+      166300
+    ],
+    [
+      null,
+      null,
+      "NOVEMBER 2025 INCOME"
+    ],
+    [
+      45963,
+      "Sunday Collection",
+      61350,
+      78000,
+      0,
+      139350
+    ],
+    [
+      45970,
+      "Sunday Collection ",
+      31700,
+      65000,
+      0,
+      96700
+    ],
+    [
+      45977,
+      "Sunday Collection ",
+      59800,
+      83000,
+      0,
+      142800,
+      null,
+      "Bal after expenses, paid in by bro Busayo = 51800"
+    ],
+    [
+      45984,
+      "Sunday Collection ",
+      39550,
+      65500,
+      2000,
+      107050,
+      null,
+      "Pledge 2000."
+    ],
+    [
+      45991,
+      "Sunday Collection ",
+      44750,
+      69000,
+      2000,
+      115750,
+      null,
+      "Pledge 2000."
+    ],
+    [
+      null,
+      null,
+      "DECEMBER 2025 INCOME"
+    ],
+    [
+      45998,
+      "Sunday Collection ",
+      31350,
+      102100,
+      0,
+      133450,
+      null,
+      "Balance after expenses 11950 paid in by bro Akinyemi"
+    ],
+    [
+      46005,
+      "Sunday Collection",
+      39900,
+      56000,
+      0,
+      95900,
+      null,
+      "Balance after expenses 12900 paid in by bro Busayo"
+    ],
+    [
+      46012,
+      "Sunday Collection",
+      36450,
+      79000,
+      0,
+      115450,
+      null,
+      "Balance after expenses 21450 paid in by bro Busayo"
+    ],
+    [
+      46019,
+      "Sunday Collection",
+      22100,
+      89100,
+      0,
+      111200
+    ]
+  ],
+  "expense2025": [
+    [
+      "Date",
+      "Expense Description",
+      "Cash (₦)",
+      "Bank (₦)",
+      "Total (₦)",
+      "Collected by",
+      "Remarks "
+    ],
+    [
+      null,
+      "JANUARY 2025 EXPENSES"
+    ],
+    [
+      45662,
+      "Refreshment for Business Meeting",
+      7000
+    ],
+    [
+      45662,
+      "Support to Itapa-Ekiti Preacher",
+      10000
+    ],
+    [
+      45669,
+      "Support to Bro Solomon Ogwaize's Hospitalized son",
+      30000
+    ],
+    [
+      45676,
+      "Fuel",
+      28500,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      45676,
+      "Repair of Big Generator",
+      5000,
+      null,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      45683,
+      "Communion Wine Purchase",
+      3000,
+      0,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      null,
+      "FEBRUARY 2025 EXPENSES"
+    ],
+    [
+      45690,
+      "Refreshment for Business Meeting",
+      7000,
+      null,
+      null,
+      "Bro Erondu"
+    ],
+    [
+      null,
+      "Commuinon Wine",
+      3000,
+      null,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      null,
+      "Preacher Househelp Support",
+      19900,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "Itapa Ekiti Preacher Support ",
+      10000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      45902,
+      "Upward Review of Preacher Allowance",
+      20000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      "16/02/2025",
+      "Generator Repair- New AVR Repair",
+      14000,
+      null,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      null,
+      "Fuel for Gen",
+      28000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      "17/02/25",
+      "Sister Omolaiyes Surgery",
+      110000,
+      0,
+      null,
+      "Bro Samuel Omolaiye"
+    ],
+    [
+      null,
+      "MARCH 2025 EXPENSES"
+    ],
+    [
+      45691,
+      "Bro. Osuagwu Health",
+      15000
+    ],
+    [
+      null,
+      "Preacher House Help Support",
+      20000
+    ],
+    [
+      null,
+      "Itapa Ekiti Preacher Support",
+      10000
+    ],
+    [
+      45872,
+      "Refreshment at the March Evangelism",
+      250000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      45903,
+      "Purchase of Fuel",
+      25500,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      "16/03/25",
+      "Upward Review of Preacher Allowance",
+      20000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      "23/03/2025",
+      "2 litre of Oil",
+      12000,
+      null,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      null,
+      "Prepaid Electricity Token",
+      10000,
+      null,
+      null,
+      "Bro Taiwo"
+    ],
+    [
+      null,
+      "support to Bro Onyelor",
+      150000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "battery for Microphone",
+      21000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "Sete Aiyede str. Levy 2023-2025",
+      45000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "Part Payment for Cleaning of Premises",
+      15000
+    ],
+    [
+      null,
+      "Purchase of Fuel",
+      27000,
+      0
+    ],
+    [
+      null,
+      "APRIL 2025 EXPENSES"
+    ],
+    [
+      45753,
+      "Refreshment for Business Meeting",
+      7000,
+      null,
+      null,
+      "Bro Okoro"
+    ],
+    [
+      null,
+      "Preacher's Househelp",
+      20000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      45760,
+      "Ekiti Preacher's Support",
+      10000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "Ekiti Preacher's Support",
+      10000,
+      null,
+      null,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "Drinking Water - 6 Buckets",
+      6000
+    ],
+    [
+      45767,
+      "Transportation to Evangelism ",
+      2000,
+      null,
+      null,
+      "Bro Solomon O."
+    ],
+    [
+      null,
+      "Upward Review of Preacher's Support ",
+      20000,
+      null,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      null,
+      "Support for Sis Gift Anso",
+      0,
+      50000,
+      null,
+      "Bro Busayo"
+    ],
+    [
+      45774,
+      "Cleaning of the church premises for April 2025",
+      30000
+    ],
+    [
+      null,
+      "Cutlasses & Hoes",
+      12000
+    ],
+    [
+      null,
+      "MAY 2025 EXPENCES"
+    ],
+    [
+      45781,
+      "Refreshments for  Business Meeting ",
+      7000
+    ],
+    [
+      null,
+      "Refreshments during grass clearing ",
+      3500
+    ],
+    [
+      null,
+      "Staple machine",
+      5500
+    ],
+    [
+      null,
+      "Fuel",
+      25500
+    ],
+    [
+      45788,
+      "Socket installation ",
+      5000
+    ],
+    [
+      null,
+      "Trasport to Samuel at the Hospital ",
+      15000
+    ],
+    [
+      null,
+      "Preacher's househelp",
+      20000
+    ],
+    [
+      null,
+      "Health Fund Expenses",
+      null,
+      100000,
+      null,
+      "Bro Busayo",
+      "Refer to \"Health Fund Account\" Tab for details"
+    ],
+    [
+      45795,
+      "Upward Review of preacher's allowance",
+      20000
+    ],
+    [
+      null,
+      "Purchase of Cleaning utensils ",
+      17000,
+      null,
+      null,
+      "bro Okoro"
+    ],
+    [
+      null,
+      "Transportation to fellowship ",
+      2000,
+      null,
+      null,
+      "bro Okoro"
+    ],
+    [
+      45802,
+      "Cleaning of church premises for May 2025",
+      30000,
+      null,
+      null,
+      "bro Busayo "
+    ],
+    [
+      null,
+      "Preacher's Allowance ",
+      70000,
+      null,
+      null,
+      "bro Akinyemi"
+    ],
+    [
+      null,
+      "JUNE 2025 EXPENSES"
+    ],
+    [
+      45809,
+      "20 bottles of water",
+      26000,
+      null,
+      null,
+      "bro Busayo "
+    ],
+    [
+      null,
+      "Itapa Ekiti Preacher's Support ",
+      10000,
+      null,
+      null,
+      "bro Busayo"
+    ],
+    [
+      null,
+      "Refreshments for Business meeting",
+      7000,
+      null,
+      null,
+      "bro Felix "
+    ],
+    [
+      45816,
+      "Service of the projector",
+      17000
+    ],
+    [
+      null,
+      "Fuel",
+      28000
+    ],
+    [
+      null,
+      "Preacher's House help",
+      20000
+    ],
+    [
+      45823,
+      "Communion wine",
+      20000,
+      null,
+      null,
+      "bro Akinyemi ",
+      "Cash balance of 8750 paid to bank by bro Busayo"
+    ],
+    [
+      null,
+      "Benevolence to Lekki and Igando congregations",
+      null,
+      120000,
+      null,
+      "bro Busayo",
+      "Cash Balance of #28750 paid to bank by bro Busayo"
+    ],
+    [
+      45830,
+      "A ream of A4 paper",
+      4400
+    ],
+    [
+      null,
+      "Transportation for visitation ",
+      8000
+    ],
+    [
+      45837,
+      "Cleaning of the Premises for June '25",
+      30000
+    ],
+    [
+      null,
+      "JULY 2025 EXPENSES"
+    ],
+    [
+      45815,
+      "Refreshements for Business meeting",
+      10000,
+      null,
+      null,
+      "bro Okoro"
+    ],
+    [
+      45851,
+      "Benevolence to Oke Rube congregation ",
+      20000
+    ],
+    [
+      null,
+      "Benevolence to a sister at Egbeda ",
+      10000
+    ],
+    [
+      null,
+      "Building Works: Putting the office to shape",
+      0,
+      1000000,
+      null,
+      "bro Segun"
+    ],
+    [
+      45858,
+      "Fuel",
+      26500
+    ],
+    [
+      45865,
+      null,
+      0
+    ],
+    [
+      null,
+      "AUGUST 2025 EXPENSES"
+    ],
+    [
+      45872,
+      "Refreshment for Business meeting",
+      10000
+    ],
+    [
+      null,
+      "Transportation to Olodi Apapa for Sisters' program",
+      15000
+    ],
+    [
+      null,
+      "Support for Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      null,
+      "Battery",
+      18500
+    ],
+    [
+      null,
+      "Microphone repairs",
+      10000
+    ],
+    [
+      null,
+      "Preacher's Allowance",
+      70000
+    ],
+    [
+      45879,
+      "Tyres for the generator",
+      12000
+    ],
+    [
+      null,
+      "Preacher's Househelp",
+      20000
+    ],
+    [
+      45886,
+      "Support to Bro Faloudiah at Badagry",
+      10000
+    ],
+    [
+      45893,
+      "Fuel",
+      18000
+    ],
+    [
+      null,
+      "Cleaning of the premises - Part payment",
+      15000
+    ],
+    [
+      45900,
+      "Cleaning of the premises - Balance",
+      15000
+    ],
+    [
+      null,
+      "Padlocks for the restrooms",
+      5300
+    ],
+    [
+      null,
+      "SEPTEMBER 2025 EXPENSES"
+    ],
+    [
+      45901,
+      "Cheque for Electrical works and communion wine",
+      205000
+    ],
+    [
+      45907,
+      "Refreshment for Business meeting",
+      10000
+    ],
+    [
+      null,
+      "Support for Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      45914,
+      "Service of Amplifier",
+      5000
+    ],
+    [
+      null,
+      "Service of Generator",
+      2000
+    ],
+    [
+      null,
+      "Preacher's Allowance",
+      70000
+    ],
+    [
+      null,
+      "Preacher's Househelp",
+      20000
+    ],
+    [
+      45921,
+      "Support to sick sister at Itire congregation",
+      10000
+    ],
+    [
+      null,
+      "Printing children class' material (part payment)",
+      30300
+    ],
+    [
+      45925,
+      "Cheque for Singing programme",
+      0,
+      800000
+    ],
+    [
+      45928,
+      "Cleaning of the premises - Part",
+      15000
+    ],
+    [
+      null,
+      "Washing the chairs",
+      7000
+    ],
+    [
+      null,
+      "purchase of a ream of A4 paper",
+      4500
+    ],
+    [
+      null,
+      "Clearing of bush around premises",
+      17000
+    ],
+    [
+      null,
+      "Service of Generator",
+      4000
+    ],
+    [
+      null,
+      null,
+      409800
+    ],
+    [
+      null,
+      "OCTOBER 2025 EXPENSES"
+    ],
+    [
+      45935,
+      "Itapa Ekiti Preacher",
+      10000
+    ],
+    [
+      null,
+      "Cleaning of the premises - Balance",
+      15000
+    ],
+    [
+      null,
+      "Printing of children class materials - Part",
+      18000,
+      null,
+      null,
+      null,
+      "To balance #300"
+    ],
+    [
+      null,
+      "Preacher's Househelp",
+      20000
+    ],
+    [
+      null,
+      "Preacher's Allowance ",
+      70000
+    ],
+    [
+      45942,
+      "Fuel",
+      25000
+    ],
+    [
+      null,
+      "Printing of minutes of meeting",
+      2500
+    ],
+    [
+      null,
+      "Balance of printing",
+      300
+    ],
+    [
+      45949,
+      "Socket for Generator",
+      3000
+    ],
+    [
+      45956,
+      "Cleaning of the premises ",
+      30000
+    ],
+    [
+      null,
+      "NOVEMBER 2025 EXPENSES "
+    ],
+    [
+      45963,
+      "Itapa Ekiti preacher's support",
+      10000
+    ],
+    [
+      null,
+      "Refreshments for Business meeting ",
+      10000
+    ],
+    [
+      null,
+      "Preacher's househelp",
+      20000
+    ],
+    [
+      null,
+      "Minutes of business meeting printouts ",
+      2500
+    ],
+    [
+      null,
+      "Preacher's allowance",
+      70000
+    ],
+    [
+      45970,
+      "Charger for water dispenser",
+      4500
+    ],
+    [
+      null,
+      "Toiletries ",
+      20500
+    ],
+    [
+      null,
+      "Bro Joseph Nwancho",
+      null,
+      100000
+    ],
+    [
+      null,
+      "Gospel Lecture Fliers",
+      null,
+      38000
+    ],
+    [
+      null,
+      "Communion Wine",
+      null,
+      49680
+    ],
+    [
+      45977,
+      "Catridge for Printer",
+      6000
+    ],
+    [
+      null,
+      "Disposable Cups",
+      2000
+    ],
+    [
+      45991,
+      "Cleaning of the premises ",
+      30000
+    ],
+    [
+      null,
+      "Replace damaged change-over switch ",
+      14750
+    ],
+    [
+      null,
+      "DECEMBER 2025 EXPENSES"
+    ],
+    [
+      45998,
+      "Itapa Ekiti Preacher's support ",
+      10000
+    ],
+    [
+      null,
+      "Repair of Windows ",
+      9400
+    ],
+    [
+      null,
+      "Preacher's househelp",
+      20000
+    ],
+    [
+      null,
+      "Preacher's allowance",
+      70000
+    ],
+    [
+      46005,
+      "Fuel",
+      27000,
+      null,
+      null,
+      null,
+      "Cash balance of 12900 paid in by Bro Busayo"
+    ],
+    [
+      46012,
+      "Repair of Printer",
+      15000,
+      null,
+      null,
+      null,
+      "Cash balance of 21450 paid in by Bro Busayo"
+    ],
+    [
+      46020,
+      "Gospel Lecture Expenses",
+      0,
+      490400
+    ]
+  ]
+}

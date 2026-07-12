@@ -1,0 +1,258 @@
+{
+  "sheetName": "2026 Income Records",
+  "data": [
+    [
+      "Date",
+      "Income Source",
+      "Cash (₦)",
+      "Bank (₦)",
+      "Other Sources (₦)",
+      "Total (₦)",
+      "Recorded By",
+      "Remarks"
+    ],
+    [
+      null,
+      "JANUARY 2026 INCOME"
+    ],
+    [
+      46026,
+      "Sunday Collection",
+      60700,
+      34000,
+      0,
+      94700,
+      "Bro Segun"
+    ],
+    [
+      46033,
+      "Sunday Collection",
+      65810,
+      106500,
+      0,
+      172310,
+      "Bro Segun"
+    ],
+    [
+      46040,
+      "Sunday Collection",
+      44050,
+      20000,
+      6000,
+      70050,
+      "Bro Segun",
+      "others - Fellowship at sis Ikugbayigbe"
+    ],
+    [
+      46047,
+      "Sunday Collection",
+      39100,
+      80000,
+      0,
+      119100,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "FEBRUARY 2026 INCOME"
+    ],
+    [
+      46054,
+      "Sunday Collection",
+      52950,
+      43000,
+      0,
+      95950,
+      "Bro Segun"
+    ],
+    [
+      46061,
+      "Sunday Collection",
+      85910,
+      32000,
+      0,
+      117910,
+      "Bro Segun"
+    ],
+    [
+      46068,
+      "Sunday Collection",
+      52500,
+      47000,
+      0,
+      99500,
+      "Bro Segun"
+    ],
+    [
+      46075,
+      "Sunday Collection",
+      35400,
+      53000,
+      0,
+      88400,
+      "Bro Segun"
+    ],
+    [
+      null,
+      "MARCH 2026 INCOME"
+    ],
+    [
+      46082,
+      "Sunday Collection ",
+      40150,
+      142150,
+      0,
+      182300
+    ],
+    [
+      46089,
+      "Sunday Collection ",
+      46050,
+      33000,
+      0,
+      79050
+    ],
+    [
+      46096,
+      "Sunday Collection ",
+      42550,
+      41500,
+      1000,
+      84050,
+      null,
+      "others - Fellowship at Sister Ikugbayigbe"
+    ],
+    [
+      46103,
+      "Sunday Collection ",
+      61650,
+      33500,
+      0,
+      95150
+    ],
+    [
+      46110,
+      "Sunday Collection ",
+      42650,
+      89500,
+      0,
+      42650
+    ],
+    [
+      null,
+      "APRIL 2026 INCOME "
+    ],
+    [
+      46117,
+      "Sunday Collection ",
+      51200,
+      68000,
+      0,
+      68000
+    ],
+    [
+      46124,
+      "Sunday Collection ",
+      44650,
+      35000,
+      0,
+      79650
+    ],
+    [
+      46131,
+      "Sunday Collection ",
+      39750,
+      38500,
+      0,
+      78250
+    ],
+    [
+      46107,
+      "Sunday Collection ",
+      35800,
+      45000,
+      0,
+      80800
+    ],
+    [
+      null,
+      "MAY 2026 INCOME "
+    ],
+    [
+      46145,
+      "Sunday Collection ",
+      50050,
+      79000,
+      0,
+      129050
+    ],
+    [
+      46152,
+      "Sunday Collection ",
+      38650,
+      38000,
+      5000,
+      81650
+    ],
+    [
+      46159,
+      "Sunday Collection ",
+      47050,
+      44000,
+      1000,
+      92050
+    ],
+    [
+      46166,
+      "Sunday Collection ",
+      41200,
+      39000,
+      0,
+      80200
+    ],
+    [
+      46173,
+      "Sunday Collection ",
+      38900,
+      52000,
+      0,
+      90900
+    ],
+    [
+      null,
+      46174
+    ],
+    [
+      46180,
+      "Sunday Collection",
+      52050,
+      72000,
+      0,
+      124050
+    ],
+    [
+      46187,
+      "Sunday Collection",
+      44500,
+      40000,
+      0,
+      84500
+    ],
+    [
+      46194,
+      "Sunday Collection",
+      33200,
+      60000,
+      0,
+      93200
+    ],
+    [
+      46201,
+      "Sunday Collection",
+      39750,
+      97500,
+      0,
+      137250
+    ]
+  ]
+}

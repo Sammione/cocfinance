@@ -1,0 +1,190 @@
+{
+  "pledges": [
+    [
+      "SN",
+      "CONTRIBUTOR",
+      "DESCRIPTION",
+      "TOTAL"
+    ],
+    [
+      1,
+      "Samuel Omolaiye",
+      5,
+      5000
+    ],
+    [
+      2,
+      "Femi Olorunfunsho",
+      10,
+      10000
+    ],
+    [
+      3,
+      "Itunu Olorunfunsho",
+      10,
+      10000
+    ],
+    [
+      4,
+      "Mercy Akpa",
+      10,
+      10000
+    ],
+    [
+      5,
+      "Emmanuel Osuagwu",
+      18,
+      18000
+    ],
+    [
+      6,
+      "Innocent Erondu",
+      "1 + 1 + 2 + 1 ",
+      5000
+    ],
+    [
+      7,
+      "Busayo oluyemi",
+      "10 + 10",
+      20000
+    ],
+    [
+      8,
+      "Oluwatosin Olawale",
+      "5 +10",
+      15000
+    ],
+    [
+      9,
+      "Bro Joel",
+      10,
+      10000
+    ],
+    [
+      10,
+      "Sis Erondu",
+      5,
+      5000
+    ],
+    [
+      11,
+      "Joseph Nwancho",
+      10,
+      10000
+    ],
+    [
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ],
+    [
+      15
+    ],
+    [
+      16
+    ],
+    [
+      17
+    ],
+    [
+      18
+    ],
+    [
+      null,
+      null,
+      "TOTAL",
+      118000
+    ]
+  ],
+  "healthFund": [
+    [
+      "Date",
+      "Description",
+      "Cash Income (₦)",
+      "Cash Withdrawal (₦)",
+      "Cheque (₦)",
+      "Balance (₦)",
+      "Collected by"
+    ],
+    [
+      45781,
+      "Opening Balance - (Transfer)",
+      909050.17
+    ],
+    [
+      45788,
+      "Bro Osuagwu's Physiotherapy ",
+      0,
+      0,
+      100000,
+      809050.17,
+      "Bro Busayo"
+    ]
+  ],
+  "diaspora": [
+    [
+      "Date",
+      "Description",
+      "Cash Income (₦)",
+      "Cheque (₦)",
+      "Balance (₦)"
+    ],
+    [
+      45805,
+      "Diaspora Inflow - Frank Erdmann",
+      0,
+      1000000,
+      1000000
+    ],
+    [
+      45824,
+      "Femi Olawale",
+      0,
+      300000,
+      300000
+    ],
+    [
+      45838,
+      "Ope Oluyemi",
+      0,
+      500000,
+      500000
+    ]
+  ],
+  "egbeda": [
+    [
+      " "
+    ],
+    [
+      null,
+      "Collection for a Sister at Egbeda"
+    ],
+    [
+      null,
+      "Date",
+      "Collection ",
+      "collected by"
+    ],
+    [
+      null,
+      45858,
+      11900,
+      "bro Busayo "
+    ],
+    [
+      null,
+      45865,
+      8500,
+      "bro Busayo"
+    ],
+    [
+      null,
+      "Total",
+      20400
+    ]
+  ]
+}
